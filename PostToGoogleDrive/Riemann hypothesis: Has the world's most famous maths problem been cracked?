@@ -1,0 +1,98 @@
+(https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked)
+
+# Riemann hypothesis: Has the world's most famous maths problem been cracked?
+
+*Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.*
+
+By Heba Habib  
+Published On 21 Nov 2026
+
+A mathematician from the tech giant Anthropic claims to have proven one of the world’s most famous – and most elusive – maths problems with the help of AI.
+
+Levent Alpoge wrote on his website on Friday: “I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.”
+
+If his claim holds up, the proof he says he has would settle a question that has defeated mathematicians for 167 years. Independent experts are now trying to verify it, but so far no human has read through the entire argument.
+
+Here is what we know.
+
+## What is the Riemann hypothesis?
+
+First proposed by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers and is widely regarded as the most important open question in pure mathematics.
+
+Prime numbers are whole numbers which can be divided only by one and themselves, such as 2, 3, 5 and 7. They appear to be scattered along the number line with no obvious pattern but the Riemann hypothesis proposes that their overall distribution actually follows a deep, hidden order – just one that humans have yet to identify.
+
+“The Riemann hypothesis is the most famous and important unsolved problem in mathematics,” Abhishek Saha, professor of mathematics at Queen Mary University of London, told Al Jazeera.
+
+“The patterns of the primes are encoded in a mathematical object called the Riemann zeta function, introduced by Bernhard Riemann in 1859.”
+
+It is one of the seven Clay Mathematics Institute Millennium Prize Problems, each carrying a $1m award.
+
+## What has the Anthropic mathematician claimed?
+
+Alpoge, a member of the company’s technical staff, made the announcement on Friday in a four-page explanation posted on his website. He said the proof he has found covers the generalised Riemann hypothesis, which extends the original conjecture to a broader family of mathematical functions.
+
+He did not publish a conventional paper. Alpoge released the argument in Lean, a programming language and proof assistant that checks reasoning step by step. He was open about how much of the work was Claude’s, writing that “Claude far outpaced me near the finish line”.
+
+Kevin Buzzard, professor of pure mathematics at Imperial College London, said nobody yet understands what the proof actually shows.
+
+“At the minute, we don’t even know why the theorem is true,” he told Al Jazeera. “It’s 17 million lines of Lean code, and this might correspond to tens of thousands of pages of mathematics. We don’t even yet know how much of this mathematics is new ideas, how much of it is just sort of standard stuff the machine just had to develop.
+
+“At the minute, the proof is just millions of lines of gobbledygook written in a strange programming language,” he said. “And right now, as we speak, there’s people all over the world who are translating parts of this programming language back into English.”
+
+He expects answers to come fairly soon, however. “Experience shows you that you give the humans the Lean code, and within a week or two, they have a much better understanding of what’s actually going on in this code,” he said.
+
+## Why is the Riemann hypothesis so important?
+
+“The implications of this hypothesis extend across large parts of mathematics, and hundreds of other mathematical results have been proved assuming this hypothesis is true,” Saha said. “A proof would settle a question that has occupied some of the greatest mathematical minds for over 160 years.”
+
+Buzzard said the result also matters beyond pure mathematics, including for internet security.
+
+“We know there are some algorithms that we run where they’re very quick, but we don’t actually know for sure if they work,” he said. “They seem to work, and we know that if the generalised Riemann hypothesis is true, then they do work.”
+
+He said cryptographers had long worked on the assumption that the Riemann hypothesis is true. “In practice, people do tend to assume that the Riemann hypothesis is true because it’s a viable hypothesis to assume, because there’s so much evidence that it’s true,” he said. “But we can sleep slightly safer in our beds at night because it is true.”
+
+Buzzard said the result stands out among recent AI breakthroughs in mathematics. He compared it with the Navier-Stokes problem, another Millennium Prize problem, which OpenAI said an unreleased AI model had solved in September. “That one doesn’t really have any applications at all,” he said, calling it “just of theoretical interest”. “Whereas the Riemann hypothesis has applications to neighbouring fields.
+
+“It’s a very hard problem, but it’s definitely not the hardest problem in mathematics,” he said, pointing to even stronger versions such as the “extended Riemann hypothesis and the grand Riemann hypothesis”.
+
+“The Riemann hypothesis is just, in some sense, at the foot of a mountain,” he said. “We’re beginning our trek up the mountain with this theorem.”
+
+## Why has it remained so elusive for so long?
+
+“The problem is relatively simple to state, but extraordinarily difficult to prove,” Saha said. “Mathematicians have developed vast amounts of sophisticated theory in their attempts to solve it, but none of the techniques developed over the past 167 years has been sufficient. The direct methods have all been tried, and none of them come close to resolving it.
+
+“Until very recently, most mathematicians, myself included, believed that a proof would require substantial new mathematical theories, perhaps developed over the next few decades.”
+
+He said the claimed proof had overturned his expectations. “My own intuition was that we were still several years away from a proof of the Riemann hypothesis. This claimed proof, if correct, shatters my model of reality,” he said.
+
+“If difficult problems are like valuable mineral reserves buried miles underground, you first need to build the infrastructure to reach them. What this proof seems to have done is something completely different. It takes an incredibly complicated tour through the infrastructure built to reach a hundred other mineral reserves, situated far from the original destination, and somehow creates a wormhole to that destination.”
+
+Buzzard said it is still too early to know what humans had been missing. “There is a chance that there were no ideas that the humans were missing. There is a chance that all of the ingredients were there, that nobody had just been smart enough to put everything together,” he said. “There is a chance that there’s a thousand pages of new ideas, very deep new theories.”
+
+“Right now, we honestly can’t tell you, because nobody understands the proof of it. That will change. In a matter of weeks, that will change.”
+
+## What role is AI playing in solving major mathematical problems?
+
+The past year has been one of AI-driven advances in mathematics. An earlier AI-assisted result showed that at least 67.25 percent of a particular set of mathematical values follow the pattern predicted by the Riemann hypothesis. The new claim, if correct, would extend this to all of them.
+
+“AI is creating a revolution in mathematics,” Saha said. “It is helping us solve problems previously thought out of reach and, in doing so, it will undoubtedly lead to the creation of new mathematics. However, this also means that the way mathematicians have traditionally conducted research will no longer be how it is done in the future.
+
+“Asking the right questions, creating new research directions, writing good expositions, and acting as an effective director or conductor for AI will become increasingly important, while technical brilliance in constructing proofs may become less so.”
+
+He argued that the credit should go to Alpoge. “Much of the press is referring to this as a proof by Claude. I think they should instead credit the person involved: Levent Alpoge,” he said. “Others with similar access to frontier AI models and computing resources were not able to come up with a proof of the Riemann hypothesis.
+
+“This proof shows that a brilliant mathematician can direct and orchestrate AI in ways that allow them to prove theorems others cannot. The honour of proving RH, if the proof holds up, belongs largely to him. He should get a Fields Medal for this.” The Fields Medal is a prestigious mathematics prize awarded every four years by the International Congress of Mathematicians (ICM) to mathematicians under age 40.
+
+## Do we even need humans to do maths any more?
+
+Buzzard rejected fears that AI has made human mathematicians redundant. “The rumours that maths is dead have been greatly exaggerated,” he said. “What’s actually happening is that mathematics has a very exciting and powerful brand new tool.”
+
+“Mathematics is infinitely big. You can’t solve all of it,” he said. He compared AI with the telescope. “Historically, astronomers were just staring at the sky, right? And then the telescope was invented, and all of a sudden we can see everything much, much more clearly.
+
+“The AI doesn’t have taste, not yet anyway. You tell it what to do, and it does it,” he said. “We’ve basically got our own telescope.”
+
+Buzzard said AI was “beginning to democratise” mathematics, although for now the breakthroughs are concentrated in a few firms. “Currently, it is the tech companies with access to the new internal models who are doing the best breakthroughs right now, but this will change as more powerful models become available to the public and the tech companies lose interest.”
+
+He said some of the unease among mathematicians is about loss. “They are grieving because the field is changing rapidly, and with change comes loss. We will do mathematics in new ways going forward, and some people will miss the old ways,” he said.
+
+“The other reason people are upset is that it has hurt a lot of people’s egos. Humans were the best at mathematics, and the best humans would prove theorems, and the theorems would be named after them.” [aljazeera](https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked)
